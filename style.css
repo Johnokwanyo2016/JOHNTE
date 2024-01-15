@@ -3,7 +3,7 @@ body{
 }
 img{
         height: 100px;
-        width: 100px;
+        width: 200px;
         padding-left: 550px; 
 }
 h1{
@@ -26,6 +26,10 @@ li{
 }
 li:hover{
   color: black;
+  h2{
+    text-decoration-color: white;
+    display: inline-block;
+  }
 }
 
 
